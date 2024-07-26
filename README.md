@@ -31,7 +31,7 @@ Initially when the power is turned on the vault as well as its keypad will defau
 ## Prototype Demonstration
 
 <p align="center"> First Protocol for wrong password  </p>
-![image](https://github.com/user-attachments/assets/2e2e674d-8bb2-41bf-8094-a94aeb9f66f0)
+![image](https://github.com/user-attachments/assets/ccb8e2d6-94e6-4732-b7a2-63784d332214)
 
 <p align="center"> First Protocol for right password </p>
 ![image](https://github.com/user-attachments/assets/69176c67-4060-4e64-8971-56bcdeb835a2)
