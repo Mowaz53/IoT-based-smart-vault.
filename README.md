@@ -31,7 +31,8 @@ Initially when the power is turned on the vault as well as its keypad will defau
 ## Prototype Demonstration
 
 <p align="center"> First Protocol for wrong password  </p>
-![1](https://github.com/user-attachments/assets/6b4efc87-405c-4cd2-9061-dc71176f7abf)
+![1](https://github.com/user-attachments/assets/a5a742ce-0c25-4b04-b28e-4087193e5c2f)
+
 
 <p align="center"> First Protocol for right password </p>
 ![image](https://github.com/user-attachments/assets/69176c67-4060-4e64-8971-56bcdeb835a2)
@@ -40,12 +41,12 @@ Initially when the power is turned on the vault as well as its keypad will defau
 ![image](https://github.com/user-attachments/assets/df899c14-538b-4433-b436-d5697abd9885)
 
 <p align="center"> Second Protocol for right password. </p>
-![image](https://github.com/user-attachments/assets/909d4294-6079-4720-84f8-4aef6b0b3d13)
+![image](https://github.com/user-attachments/assets/909d4294-6079-4720-84f8-4aef6b0b3d13) <br>
 ![image](https://github.com/user-attachments/assets/485cf18f-ca42-4068-af03-e76bdfd56ac3)
 
 <p align="center"> Transaction for entry and removal respectively. </p>
-![image](https://github.com/user-attachments/assets/a164a4ff-170a-4816-a933-642d5b40dd52)
-![image](https://github.com/user-attachments/assets/e26026dc-4caa-489f-b97b-c87b50be1554)
+![image](https://github.com/user-attachments/assets/a164a4ff-170a-4816-a933-642d5b40dd52)<br>
+![image](https://github.com/user-attachments/assets/e26026dc-4caa-489f-b97b-c87b50be1554)<br>
 
 <p align="center"> Closing of the door. </p>
 ![image](https://github.com/user-attachments/assets/58980112-4de7-4293-a10c-88113928a93c)
