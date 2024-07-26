@@ -18,7 +18,7 @@ Initially when the power is turned on the vault as well as its keypad will defau
 -	LDR
 
 ## Schematic diagram of the circuit
-![image](https://github.com/user-attachments/assets/dba79676-0916-49e3-984f-049815917033)
+Diagrams/Circuit.png
 
 ## Prototype Wiring
 ![image](https://github.com/user-attachments/assets/5b5d8c73-4b88-4ae2-a27d-7592b9817886)
