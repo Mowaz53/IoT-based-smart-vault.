@@ -39,7 +39,7 @@ Initially when the power is turned on the vault as well as its keypad will defau
 
 https://github.com/user-attachments/assets/c0149397-cf38-439e-9e09-c32df0df45dd
 
-
+### Citation:
 M. H. C. Joy, M. M. A. Karim, A. H. Choudhury, M. Razin and S. N. M. Ahmed, "An IoT Based Smart Vault Security and Monitoring System with Zero UI," 2023 3rd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), Dhaka, Bangladesh, 2023, pp. 95-100, doi: 10.1109/ICREST57604.2023.10070057. keywords: {Wiring;Bluetooth;Sonar;Signal processing algorithms;Switches;User interfaces;Robot sensing systems;Internet of Things;Automated Safety Vault;Smart Security System;Triple Layered Defense Mechanism;Password Verification;Electronic Lock;Security Features;Zero User Interface (UI);Touchless Technology},
 
 
